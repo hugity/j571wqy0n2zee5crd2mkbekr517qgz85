@@ -4,6 +4,5 @@ description: The last theme you'll ever need. Maybe.
 theme_version: 2.8.2
 cascade:
   featured_image: /images/gohugo-default-sample-hero-image.jpg
-cascade.featured_image: images/Lasagna-1757772528252-2m5h7x.jpg
 ---
 Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
